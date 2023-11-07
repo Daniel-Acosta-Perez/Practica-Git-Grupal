@@ -67,3 +67,49 @@ pasos:
 <h2>Disfrutar:</h2>
     <p>Saca la pizza del horno con cuidado, córtala en porciones y disfruta de tu deliciosa pizza casera.</p>
 
+
+Pasos para hacer una pizza desde 0 by Francis 
+
+Masa de pizza:
+
+1. Harina de trigo
+2. Levadura
+3. Agua
+4. Sal
+5. Azucar
+6. Aceite vegetal
+
+Ingredientes: 
+
+1. Masa para pizza
+2. Lata de tomate
+3. Queso Mozzarrella
+4. Pimenton 
+5. Cebolla
+6. Jamon
+7. Oregano
+8. Sal
+
+Preparación:
+
+- Agarrar un envase de plastico para mezclar la levadura y el agua
+
+- agregar 2 cucharada de aceite vegetal
+
+- revolver con los dedos mientras incorporas la harina de trigo
+
+- agregar pizca de sal y azucar
+
+- seguir con el proceso de aplicar harina hasta conseguir una textura que ya no sea pegajosa
+
+- saca la harina del emvase colocarla en una superficie plana y amasa con fuerza por unos 10min
+
+- seguir amasando y agregar de a poquito harina de trigo hasta que no se peguen en los dedos y obtener una masa elastica, compacta y uniforme
+
+- luego colocar en envase tapado con un paño limpio y dejar reposar por 1h 
+
+- colocarla en la superficie plana anterior y empezar a estirar poco a poco buscando  un forma redonda o cuadrada, dependiendo de la bandeja
+
+- una vez en la bandeja aplicarle todos los ingredientes a su gusto y luego llevarlo al horno unos 10 - 15minutos.
+
+Ahora a disfrutar tu pizza casera!
