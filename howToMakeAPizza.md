@@ -67,3 +67,53 @@ pasos:
 <h2>Disfrutar:</h2>
     <p>Saca la pizza del horno con cuidado, córtala en porciones y disfruta de tu deliciosa pizza casera.</p>
 
+ Mi Pizza Casera, Litza:
+ Ingredientes:
+
+ Para la masa:
+
+-1 1/2 tazas de agua tibia (alrededor de 110°F o 43°C)
+-2 cucharaditas de levadura seca activa
+-4 tazas de harina de trigo
+-2 cucharadas de aceite de oliva
+-1 cucharadita de sal
+-1 cucharadita de azúcar
+
+Para la salsa de pizza:
+
+-1 lata de 14 oz (400 g) de tomates triturados o puré de tomate
+-2 cucharaditas de aceite de oliva
+-1 diente de ajo picado (opcional)
+-1 cucharadita de orégano seco
+-Sal y pimienta al gusto
+
+Para los ingredientes de la pizza:
+
+1 1/2 tazas de queso mozzarella rallado
+Toppings a elección (por ejemplo, pepperoni, champiñones, pimientos, cebolla, jamón, etc.)
+Instrucciones:
+
+Preparar la masa:
+a. En un recipiente pequeño, mezcla el agua tibia, la levadura y el azúcar. Deja reposar durante unos 5-10 minutos hasta que la mezcla esté espumosa.
+b. En un bol grande, mezcla la harina y la sal.
+c. Agrega la mezcla de levadura y el aceite de oliva a la harina. Mezcla hasta que se forme una masa.
+d. Amasa la masa en una superficie enharinada durante unos 5-7 minutos, o hasta que esté suave y elástica.
+e. Coloca la masa en un bol aceitado, cúbrelo con un paño húmedo y déjalo reposar en un lugar cálido durante aproximadamente 1 hora, o hasta que la masa haya duplicado su tamaño.
+
+Preparar la salsa de pizza:
+a. En una sartén, calienta el aceite de oliva a fuego medio. Agrega el ajo picado y saltea durante 1-2 minutos hasta que esté fragante (si lo estás usando).
+b. Agrega los tomates triturados, el orégano, la sal y la pimienta. Cocina a fuego lento durante unos 15-20 minutos, removiendo ocasionalmente. La salsa debe espesar.
+
+Precalentar el horno:
+a. Precalienta tu horno a la temperatura más alta que pueda alcanzar (generalmente alrededor de 475°F o 245°C).
+
+Armar la pizza:
+a. Estira la masa en una superficie enharinada hasta que tenga el tamaño y grosor deseado.
+b. Transfiere la masa estirada a una bandeja para horno enharinada o a una piedra para pizza.
+c. Extiende la salsa de pizza sobre la masa.
+d. Agrega el queso mozzarella rallado y tus ingredientes favoritos.
+
+Hornear la pizza:
+a. Coloca la pizza en el horno precalentado y hornéala durante unos 12-15 minutos, o hasta que la masa esté dorada y el queso esté burbujeante y dorado.
+
+Retirar la pizza del horno, cortarla y servirla caliente. ¡A Disfrutar!
