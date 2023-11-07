@@ -1,32 +1,32 @@
 Pasos Juan Jose:
 ingredientes:
--350 gr de harina de trigo (y un poco más para amasar)
--180 ml de agua
--1 cucharadita de sal
--½ cucharadita de levadura seca
--2 ½ cucharaditas de aceite de oliva 
--6 cucharadas de salsa pomodoro
--1 taza de mozzarella 
--10 tomates  cherry , cortados en tajadas
--½ taza de aceitunas cortadas por la mitad
--2 cucharadas de hojas de albahaca fresca
--Orégano, peperoncino y pimienta para servir
+- 350 gr de harina de trigo (y un poco más para amasar)
+- 180 ml de agua
+- 1 cucharadita de sal
+- ½ cucharadita de levadura seca
+- 2 ½ cucharaditas de aceite de oliva 
+- 6 cucharadas de salsa pomodoro
+- 1 taza de mozzarella 
+- 10 tomates  cherry , cortados en tajadas
+- ½ taza de aceitunas cortadas por la mitad
+- 2 cucharadas de hojas de albahaca fresca
+- Orégano, peperoncino y pimienta para servir
 
 pasos: 
 
-1.Mezcla la harina y la sal en un recipiente grande y aparte disuelve la levadura en el agua. Haz un hueco en el centro de la harina, vierte el agua y empieza a mezclar del centro hacia afuera uniendo todos los ingredientes. Luego, agrega el aceite y pon la masa sobre un mesón enharinado; amasa durante 10 minutos o hasta que quede lisa y elástica.
+1. Mezcla la harina y la sal en un recipiente grande y aparte disuelve la levadura en el agua. Haz un hueco en el centro de la harina, vierte el agua y empieza a mezclar del centro hacia afuera uniendo todos los ingredientes. Luego, agrega el aceite y pon la masa sobre un mesón enharinado; amasa durante 10 minutos o hasta que quede lisa y elástica.
 
-2.Déjala reposar una hora en el recipiente tapado con un limpión o todo un día en la nevera.
+2. Déjala reposar una hora en el recipiente tapado con un limpión o todo un día en la nevera.
 
-3.Precalienta el horno a 450°f. / 232°C. Coloca una lata grande en la rejilla de abajo del horno o usa una piedra para pizza (si la tienes).
+3. Precalienta el horno a 450°f. / 232°C. Coloca una lata grande en la rejilla de abajo del horno o usa una piedra para pizza (si la tienes).
 
-4.Dale un golpe fuerte a la masa y ponla sobre el mesón enharinado. Extiende con la ayuda de un rodillo y usando las yemas de los dedos. Si se te pega a la mesa, agrega un poco más de harina.
+4. Dale un golpe fuerte a la masa y ponla sobre el mesón enharinado. Extiende con la ayuda de un rodillo y usando las yemas de los dedos. Si se te pega a la mesa, agrega un poco más de harina.
 
-5.Cuando tengas un círculo, transfiere la masa a una tabla enharinada.
+5. Cuando tengas un círculo, transfiere la masa a una tabla enharinada.
 
-6.Unta la superficie con la salsa pomodoro pero sin llegar a los bordes. Reparte el resto de los ingredientes, menos la albahaca. Pon la pizza sobre la lata o piedra que está en el horno y hornea durante 12 a 15 minutos o hasta que el queso se haya derretido y la pizza se dore.
+6. Unta la superficie con la salsa pomodoro pero sin llegar a los bordes. Reparte el resto de los ingredientes, menos la albahaca. Pon la pizza sobre la lata o piedra que está en el horno y hornea durante 12 a 15 minutos o hasta que el queso se haya derretido y la pizza se dore.
 
-7.Agrega la albahaca ¡y listo! Tienes una deliciosa pizza italiana en tu mesa.
+7. Agrega la albahaca ¡y listo! Tienes una deliciosa pizza italiana en tu mesa.
 
 
 <h1>Pizza Casera, by Daniel Acosta</h1>
@@ -67,25 +67,73 @@ pasos:
 <h2>Disfrutar:</h2>
     <p>Saca la pizza del horno con cuidado, córtala en porciones y disfruta de tu deliciosa pizza casera.</p>
 
+ 
+
+Pasos para hacer una pizza desde 0 by Francis 
+
+Masa de pizza:
+
+1. Harina de trigo
+2. Levadura
+3. Agua
+4. Sal
+5. Azucar
+6. Aceite vegetal
+
+Ingredientes: 
+
+1. Masa para pizza
+2. Lata de tomate
+3. Queso Mozzarrella
+4. Pimenton 
+5. Cebolla
+6. Jamon
+7. Oregano
+8. Sal
+
+Preparación:
+
+- Agarrar un envase de plastico para mezclar la levadura y el agua
+
+- agregar 2 cucharada de aceite vegetal
+
+- revolver con los dedos mientras incorporas la harina de trigo
+
+- agregar pizca de sal y azucar
+
+- seguir con el proceso de aplicar harina hasta conseguir una textura que ya no sea pegajosa
+
+- saca la harina del emvase colocarla en una superficie plana y amasa con fuerza por unos 10min
+
+- seguir amasando y agregar de a poquito harina de trigo hasta que no se peguen en los dedos y obtener una masa elastica, compacta y uniforme
+
+- luego colocar en envase tapado con un paño limpio y dejar reposar por 1h 
+
+- colocarla en la superficie plana anterior y empezar a estirar poco a poco buscando  un forma redonda o cuadrada, dependiendo de la bandeja
+
+- una vez en la bandeja aplicarle todos los ingredientes a su gusto y luego llevarlo al horno unos 10 - 15minutos.
+
+Ahora a disfrutar tu pizza casera!
+ 
  Mi Pizza Casera, Litza:
  Ingredientes:
 
  Para la masa:
 
--1 1/2 tazas de agua tibia (alrededor de 110°F o 43°C)
--2 cucharaditas de levadura seca activa
--4 tazas de harina de trigo
--2 cucharadas de aceite de oliva
--1 cucharadita de sal
--1 cucharadita de azúcar
+- 1 1/2 tazas de agua tibia (alrededor de 110°F o 43°C)
+- 2 cucharaditas de levadura seca activa
+- 4 tazas de harina de trigo
+- 2 cucharadas de aceite de oliva
+- 1 cucharadita de sal
+- 1 cucharadita de azúcar
 
 Para la salsa de pizza:
 
--1 lata de 14 oz (400 g) de tomates triturados o puré de tomate
--2 cucharaditas de aceite de oliva
--1 diente de ajo picado (opcional)
--1 cucharadita de orégano seco
--Sal y pimienta al gusto
+- 1 lata de 14 oz (400 g) de tomates triturados o puré de tomate
+- 2 cucharaditas de aceite de oliva
+- 1 diente de ajo picado (opcional)
+- 1 cucharadita de orégano seco
+- Sal y pimienta al gusto
 
 Para los ingredientes de la pizza:
 
@@ -117,3 +165,4 @@ Hornear la pizza:
 a. Coloca la pizza en el horno precalentado y hornéala durante unos 12-15 minutos, o hasta que la masa esté dorada y el queso esté burbujeante y dorado.
 
 Retirar la pizza del horno, cortarla y servirla caliente. ¡A Disfrutar!
+ 
