@@ -1,32 +1,32 @@
 Pasos Juan Jose:
 ingredientes:
--350 gr de harina de trigo (y un poco más para amasar)
--180 ml de agua
--1 cucharadita de sal
--½ cucharadita de levadura seca
--2 ½ cucharaditas de aceite de oliva 
--6 cucharadas de salsa pomodoro
--1 taza de mozzarella 
--10 tomates  cherry , cortados en tajadas
--½ taza de aceitunas cortadas por la mitad
--2 cucharadas de hojas de albahaca fresca
--Orégano, peperoncino y pimienta para servir
+- 350 gr de harina de trigo (y un poco más para amasar)
+- 180 ml de agua
+- 1 cucharadita de sal
+- ½ cucharadita de levadura seca
+- 2 ½ cucharaditas de aceite de oliva 
+- 6 cucharadas de salsa pomodoro
+- 1 taza de mozzarella 
+- 10 tomates  cherry , cortados en tajadas
+- ½ taza de aceitunas cortadas por la mitad
+- 2 cucharadas de hojas de albahaca fresca
+- Orégano, peperoncino y pimienta para servir
 
 pasos: 
 
-1.Mezcla la harina y la sal en un recipiente grande y aparte disuelve la levadura en el agua. Haz un hueco en el centro de la harina, vierte el agua y empieza a mezclar del centro hacia afuera uniendo todos los ingredientes. Luego, agrega el aceite y pon la masa sobre un mesón enharinado; amasa durante 10 minutos o hasta que quede lisa y elástica.
+1. Mezcla la harina y la sal en un recipiente grande y aparte disuelve la levadura en el agua. Haz un hueco en el centro de la harina, vierte el agua y empieza a mezclar del centro hacia afuera uniendo todos los ingredientes. Luego, agrega el aceite y pon la masa sobre un mesón enharinado; amasa durante 10 minutos o hasta que quede lisa y elástica.
 
-2.Déjala reposar una hora en el recipiente tapado con un limpión o todo un día en la nevera.
+2. Déjala reposar una hora en el recipiente tapado con un limpión o todo un día en la nevera.
 
-3.Precalienta el horno a 450°f. / 232°C. Coloca una lata grande en la rejilla de abajo del horno o usa una piedra para pizza (si la tienes).
+3. Precalienta el horno a 450°f. / 232°C. Coloca una lata grande en la rejilla de abajo del horno o usa una piedra para pizza (si la tienes).
 
-4.Dale un golpe fuerte a la masa y ponla sobre el mesón enharinado. Extiende con la ayuda de un rodillo y usando las yemas de los dedos. Si se te pega a la mesa, agrega un poco más de harina.
+4. Dale un golpe fuerte a la masa y ponla sobre el mesón enharinado. Extiende con la ayuda de un rodillo y usando las yemas de los dedos. Si se te pega a la mesa, agrega un poco más de harina.
 
-5.Cuando tengas un círculo, transfiere la masa a una tabla enharinada.
+5. Cuando tengas un círculo, transfiere la masa a una tabla enharinada.
 
-6.Unta la superficie con la salsa pomodoro pero sin llegar a los bordes. Reparte el resto de los ingredientes, menos la albahaca. Pon la pizza sobre la lata o piedra que está en el horno y hornea durante 12 a 15 minutos o hasta que el queso se haya derretido y la pizza se dore.
+6. Unta la superficie con la salsa pomodoro pero sin llegar a los bordes. Reparte el resto de los ingredientes, menos la albahaca. Pon la pizza sobre la lata o piedra que está en el horno y hornea durante 12 a 15 minutos o hasta que el queso se haya derretido y la pizza se dore.
 
-7.Agrega la albahaca ¡y listo! Tienes una deliciosa pizza italiana en tu mesa.
+7. Agrega la albahaca ¡y listo! Tienes una deliciosa pizza italiana en tu mesa.
 
 
 <h1>Pizza Casera, by Daniel Acosta</h1>
@@ -67,6 +67,7 @@ pasos:
 <h2>Disfrutar:</h2>
     <p>Saca la pizza del horno con cuidado, córtala en porciones y disfruta de tu deliciosa pizza casera.</p>
 
+ 
 
 Pasos para hacer una pizza desde 0 by Francis 
 
@@ -113,3 +114,55 @@ Preparación:
 - una vez en la bandeja aplicarle todos los ingredientes a su gusto y luego llevarlo al horno unos 10 - 15minutos.
 
 Ahora a disfrutar tu pizza casera!
+ 
+ Mi Pizza Casera, Litza:
+ Ingredientes:
+
+ Para la masa:
+
+- 1 1/2 tazas de agua tibia (alrededor de 110°F o 43°C)
+- 2 cucharaditas de levadura seca activa
+- 4 tazas de harina de trigo
+- 2 cucharadas de aceite de oliva
+- 1 cucharadita de sal
+- 1 cucharadita de azúcar
+
+Para la salsa de pizza:
+
+- 1 lata de 14 oz (400 g) de tomates triturados o puré de tomate
+- 2 cucharaditas de aceite de oliva
+- 1 diente de ajo picado (opcional)
+- 1 cucharadita de orégano seco
+- Sal y pimienta al gusto
+
+Para los ingredientes de la pizza:
+
+1 1/2 tazas de queso mozzarella rallado
+Toppings a elección (por ejemplo, pepperoni, champiñones, pimientos, cebolla, jamón, etc.)
+Instrucciones:
+
+Preparar la masa:
+a. En un recipiente pequeño, mezcla el agua tibia, la levadura y el azúcar. Deja reposar durante unos 5-10 minutos hasta que la mezcla esté espumosa.
+b. En un bol grande, mezcla la harina y la sal.
+c. Agrega la mezcla de levadura y el aceite de oliva a la harina. Mezcla hasta que se forme una masa.
+d. Amasa la masa en una superficie enharinada durante unos 5-7 minutos, o hasta que esté suave y elástica.
+e. Coloca la masa en un bol aceitado, cúbrelo con un paño húmedo y déjalo reposar en un lugar cálido durante aproximadamente 1 hora, o hasta que la masa haya duplicado su tamaño.
+
+Preparar la salsa de pizza:
+a. En una sartén, calienta el aceite de oliva a fuego medio. Agrega el ajo picado y saltea durante 1-2 minutos hasta que esté fragante (si lo estás usando).
+b. Agrega los tomates triturados, el orégano, la sal y la pimienta. Cocina a fuego lento durante unos 15-20 minutos, removiendo ocasionalmente. La salsa debe espesar.
+
+Precalentar el horno:
+a. Precalienta tu horno a la temperatura más alta que pueda alcanzar (generalmente alrededor de 475°F o 245°C).
+
+Armar la pizza:
+a. Estira la masa en una superficie enharinada hasta que tenga el tamaño y grosor deseado.
+b. Transfiere la masa estirada a una bandeja para horno enharinada o a una piedra para pizza.
+c. Extiende la salsa de pizza sobre la masa.
+d. Agrega el queso mozzarella rallado y tus ingredientes favoritos.
+
+Hornear la pizza:
+a. Coloca la pizza en el horno precalentado y hornéala durante unos 12-15 minutos, o hasta que la masa esté dorada y el queso esté burbujeante y dorado.
+
+Retirar la pizza del horno, cortarla y servirla caliente. ¡A Disfrutar!
+ 
