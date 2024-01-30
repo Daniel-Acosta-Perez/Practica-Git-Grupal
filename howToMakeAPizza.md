@@ -165,4 +165,35 @@ Hornear la pizza:
 a. Coloca la pizza en el horno precalentado y hornéala durante unos 12-15 minutos, o hasta que la masa esté dorada y el queso esté burbujeante y dorado.
 
 Retirar la pizza del horno, cortarla y servirla caliente. ¡A Disfrutar!
- 
+
+mi pizza, juliana: 
+1. Preparar los ingredientes:
+   - Harina para la masa
+   - Levadura
+   - Sal
+   - Agua tibia
+   - Salsa de tomate
+   - Queso mozzarella rallado
+   - Ingredientes para topping (pepperoni, champiñones, etc.)
+
+2. Hacer la masa:
+   - Mezclar la harina, la levadura y la sal.
+   - Agregar el agua tibia y amasar hasta obtener una masa suave.
+   - Dejar reposar la masa en un lugar cálido hasta que duplique su tamaño.
+   3. *Preparar la salsa:*
+   - Mezclar la salsa de tomate con especias al gusto (orégano, albahaca, ajo en polvo, etc.).
+
+4. Armar la pizza:
+   - Extender la masa en un molde para pizza.
+   - Cubrir con la salsa de tomate y esparcir el queso rallado.
+   - Agregar los ingredientes para el topping.
+
+5. Hornear:
+   - Precalentar el horno a alta temperatura.
+   - Hornear la pizza hasta que la masa esté dorada y el queso burbujeante.
+
+6. Disfrutar:
+   - Cortar la pizza en porciones y ¡a disfrutar!
+
+Espero que te guste esta receta. ¿Tienes algún ingrediente favorito para ponerle a tu pizza?
+
